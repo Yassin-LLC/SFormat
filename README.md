@@ -5,7 +5,7 @@ The tool is provided as a **portable executable** in `.7z` and `.zip` formats. N
 - [The tool is still portable (I like it that way), use it anywhere, even live USBs & WinPE/RE]
 - The tool can read .txt, .cmd, or .bat & execute them. (eg., read/re .txt run)
 - write as raw (write/wt "Sector No. or folder to create or file")
-
+- Clone disks; Clone/cn \\.\PhysicalDrive11 \\MyNAS\ or any other drive or spanned ones.
 ---
 
 ## Installation
