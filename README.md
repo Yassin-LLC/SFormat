@@ -1,7 +1,7 @@
 # SFORMAT
 SFORMAT is a powerful and portable command-line utility for managing disks, partitions, and volumes across multiple platforms. Designed for advanced users, it supports secure erasing, formatting, shredding, verifying drive integrity, and more.
 
-The tool is provided as a **portable executable** in `.7z` and `.zip` formats. No installation is required—simply extract and use.
+The tool is provided as a **portable executable** in `.7z` and `.zip` formats. No installation is required—simply extract and use. [The tool is still portable (I like it that way), use it anywhere, even live USBs & WinPE/RE]
 
 ---
 
