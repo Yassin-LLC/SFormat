@@ -203,7 +203,7 @@ Yassin-LLC Update
 ## Notes
 - Syntax examples are also provided in a `.txt` file for simplicity.
 - The tool is extremely powerful and should be used with caution.
-
+- tree mode: tree/tr: lists the drives & their pars/vols in a tree way-mode.
 ---
 
 ### Important Note for Super-Advanced & Novice Users!
