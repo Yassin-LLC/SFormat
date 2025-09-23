@@ -4,6 +4,7 @@ SFORMAT is a powerful and portable command-line utility for managing disks, part
 The tool is provided as a **portable executable** in `.7z` and `.zip` formats. No installation is required—simply extract and use. 
 - [The tool is still portable (I like it that way), use it anywhere, even live USBs & WinPE/RE]
 - The tool can read .txt, .cmd, or .bat & execute them. (eg., read/re .txt run)
+- write as raw (write/wt "Sector No. or folder to create or file")
 
 ---
 
